@@ -17,11 +17,6 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-  - [👥 Author](#-author)
-  - [🔗 Live Demo](#-live-demo)
-  - [🤝 Contributing](#-contributing)
-  - [⭐️ Show your support](#️-show-your-support)
-  - [📝 License](#-license)
 
 <!-- PROJECT DESCRIPTION -->
 
