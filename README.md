@@ -1,41 +1,154 @@
-Task Master
+<a name="readme-top"></a>
+<div align="center">
+  <h1><b>Task Master App</b></h1>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Task Master App](#-task-master-app)
+  - [🛠 Built With](#-built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [💻 Getting Started](#-getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+  - [👥 Author](#-author)
+  - [🔗 Live Demo](#-live-demo)
+  - [🤝 Contributing](#-contributing)
+  - [⭐️ Show your support](#️-show-your-support)
+  - [📝 License](#-license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 Task Master App
+
 Task Master is a powerful task management application designed to streamline your daily productivity. Whether you're organizing personal projects, managing work tasks, or planning events, Task Master provides you with the tools you need to stay organized and focused.
 
-Live Demo
-Check out the live demo here (Replace "#" with the actual live demo link).
+## 🛠 Built With
 
-Features
-Intuitive Interface: Task Master offers a clean and intuitive user interface, making it easy to navigate and use for users of all experience levels.
-Task Creation and Editing: Quickly create tasks with customizable details such as title, description, due date, priority, and tags. Easily edit tasks to keep your information up to date.
-Task Organization: Organize your tasks into categories or projects for better clarity and organization. Create custom tags to categorize tasks based on topics, importance, or any other criteria.
-Task Prioritization: Mark tasks as high, medium, or low priority to focus on what matters most. Sort tasks based on priority to ensure you're tackling the most important ones first.
-Task Tracking: Track the progress of your tasks with status updates such as "to do," "in progress," and "completed." Visualize your task list to see which tasks are pending, in progress, or completed.
-Reminders and Notifications: Set reminders and deadlines for tasks to stay on track. Receive notifications to remind you of upcoming deadlines or overdue tasks, ensuring nothing falls through the cracks.
-Collaboration: Share tasks or entire projects with team members or collaborators. Collaborate in real-time, assign tasks to team members, and track progress together.
-Data Backup and Sync: Your task data is securely backed up and synced across devices, allowing you to access your tasks from anywhere, at any time.
-Customization Options: Customize Task Master to fit your workflow with flexible settings and customization options. Choose your preferred theme, layout, and task view to tailor the app to your preferences.
-Cross-Platform Accessibility: Access Task Master seamlessly across multiple devices, including smartphones, tablets, and desktop computers. Enjoy a consistent experience across all platforms.
-Installation
-To run Task Master locally, follow these steps:
+- React
+- Redux
+- Redux Toolkit
 
-Clone this repository.
-Install dependencies using npm install.
-Start the development server using npm start.
-Open http://localhost:3000 in your web browser.
-Build Stack
-Task Master is built using the following technologies:
+### Tech Stack
 
-React.js
-Redux
-Redux Toolkit
-HTML5
-CSS3
-JavaScript
-Author
-Task Master is created and maintained by [Your Name].
+<details>
+  <summary>Language</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React</a></li>
+  </ul>
+</details>
 
-Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request for any features, enhancements, or bug fixes.
+<details>
+  <summary>State Management</summary>
+  <ul>
+    <li><a href="https://redux.js.org/">Redux</a></li>
+    <li><a href="https://redux-toolkit.js.org/">Redux Toolkit</a></li>
+  </ul>
+</details>
 
-License
-This project is licensed under the MIT License.
+<!-- Features -->
+
+### Key Features
+
+- **Intuitive Interface**: Task Master offers a clean and intuitive user interface, making it easy to navigate and use for users of all experience levels.
+- **Task Creation and Editing**: Quickly create tasks . Easily edit tasks to keep your information up to date when you don't need it you can simply delete it.
+
+## 💻 Getting Started
+
+To get a local copy up and running, follow these steps:
+
+### Prerequisites
+
+In order to run this project, you need:
+
+- Node.js
+- npm or yarn
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+ git clone https://github.com/your-username/task-master-app.git
+
+
+### Install
+
+Install this project with:
+
+
+```sh
+  cd Recipe-App
+  npm i
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+  npm start
+```
+Open the following ing in your web browser `http://localhost:3000`
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Zabih Noori**
+
+- GitHub: [Zabih noori ](https://github.com/ZabihullahNooriWardak)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Adding priority based management]**
+- [ ] **[ Solution for persisted storage ]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Estete9/recipes-app/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project coomment or send it a star
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Nirmal Joshi for Teaching redux and redux-toolkit
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
