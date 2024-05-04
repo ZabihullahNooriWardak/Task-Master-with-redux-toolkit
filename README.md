@@ -99,9 +99,11 @@ Open the following ing in your web browser `http://localhost:3000`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔗 Live Demo
+- click here: [Live demo]()
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 👤 **Zabih Noori**
 
